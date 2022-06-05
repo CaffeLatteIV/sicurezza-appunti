@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "72f1b1c2741621ac",
+    "type": "split",
+    "children": [
+      {
+        "id": "e25d288e201d6166",
+        "type": "leaf",
+        "state": {
+          "type": "image",
+          "state": {
+            "file": "img/Pasted image 20220605093947.png"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "68f7a4f84adeba4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "628d5cd45be606c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7893975ae0844ee9",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "83a4829f1be7ecc3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e472073b8d1ffa0a",
+    "type": "split",
+    "children": [
+      {
+        "id": "1fd7dfc5c5b247c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d32ced324e5c194d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "img/Pasted image 20220605093947.png",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "e25d288e201d6166",
+  "lastOpenFiles": [
+    "img/Pasted image 20220605093947.png",
+    "09 -Secure Sockets Layer.md",
+    "img/Pasted image 20220605075734.png",
+    "08 - Pretty Good Privacy.md",
+    "07 - Secret Sharing - Key Escrow.md",
+    "03 - RSA.md",
+    "img/Pasted image 20220601121239.png",
+    "02 - DES.md",
+    "img/Pasted image 20220601120447.png",
+    "01 - critto-intro.md"
+  ]
+}
