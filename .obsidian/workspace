@@ -7,8 +7,12 @@
         "id": "e25d288e201d6166",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "10 - User Authentication.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "10 - User Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,15 +89,15 @@
   },
   "active": "e25d288e201d6166",
   "lastOpenFiles": [
+    "10 - User Authentication.md",
+    "09 -Secure Sockets Layer.md",
+    "06 - Certificates.md",
     "03 - RSA.md",
     "02 - DES.md",
     "01 - critto-intro.md",
     "img/Pasted image 20220605093947.png",
-    "09 -Secure Sockets Layer.md",
     "img/Pasted image 20220605075734.png",
     "08 - Pretty Good Privacy.md",
-    "07 - Secret Sharing - Key Escrow.md",
-    "img/Pasted image 20220601121239.png",
-    "img/Pasted image 20220601120447.png"
+    "07 - Secret Sharing - Key Escrow.md"
   ]
 }

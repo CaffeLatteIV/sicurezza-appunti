@@ -4,7 +4,8 @@
   "showLineNumber": true,
   "spellcheckLanguages": [
     "en-GB",
-    "it-IT"
+    "it-IT",
+    "en-US"
   ],
   "spellcheck": true,
   "strictLineBreaks": false,
