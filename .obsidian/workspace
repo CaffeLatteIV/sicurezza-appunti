@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "14 - IPSec.md",
+            "file": "17 - Intrusion Detection and Cyber Forensics.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "14 - IPSec.md",
+                "file": "17 - Intrusion Detection and Cyber Forensics.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e25d288e201d6166",
   "lastOpenFiles": [
+    "17 - Intrusion Detection and Cyber Forensics.md",
+    "16 - Cloud IoT Wireless Networks.md",
+    "03 - Public Key RSA Algorithm.md",
+    "15 - Denial of Service.md",
     "14 - IPSec.md",
-    "Untitled.md",
     "img/Pasted image 20220606170813.png",
     "13 - Firewalls.md",
     "12 - Access Control.md",
     "02 - DES.md",
-    "10 - User Authentication.md",
-    "09 -Secure Sockets Layer.md",
-    "06 - Certificates.md",
-    "03 - RSA.md"
+    "10 - User Authentication.md"
   ]
 }
