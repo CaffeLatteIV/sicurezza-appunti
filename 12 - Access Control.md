@@ -159,4 +159,3 @@ Nuovi permessi rimangono in effetto solo durante l'esecuzione
 Quando l'esecuzione termina i permessi ritornano allo stato precedente
 Da la possibilità al processo di cambiare il suo dominio di protezione dinamicamente durante l'esecuzione
 Può essere usato per implementare il "principle of least privilege"
-

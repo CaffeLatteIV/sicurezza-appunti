@@ -126,7 +126,3 @@ $A$ e $B$ condividono una chiave privata $k$
 Esempio di una "_keyed hash function_"
 Simile a la firma digitale ma più debole visto che la regola di "non rebudiabilità" non è soddisfatta (il ricevente puù affermare di aver ricevuto un qualsiasi messaggio)
 basato su un algoritmo di condivisione di chiavi segrete con tutti i suoi shortcoming associati.
-
-
-7. 
-

@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "17 - Intrusion Detection and Cyber Forensics.md",
+            "file": "10 - User Authentication.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "17 - Intrusion Detection and Cyber Forensics.md",
+                "file": "10 - User Authentication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "e25d288e201d6166",
   "lastOpenFiles": [
-    "17 - Intrusion Detection and Cyber Forensics.md",
-    "16 - Cloud IoT Wireless Networks.md",
+    "10 - User Authentication.md",
+    "09 -Secure Sockets Layer.md",
+    "08 - Pretty Good Privacy.md",
+    "07 - Secret Sharing - Key Escrow.md",
+    "06 - Certificates.md",
+    "05 - Key Management.md",
+    "04 - Authentication and Digital Signatures.md",
     "03 - Public Key RSA Algorithm.md",
-    "15 - Denial of Service.md",
-    "14 - IPSec.md",
-    "img/Pasted image 20220606170813.png",
-    "13 - Firewalls.md",
-    "12 - Access Control.md",
     "02 - DES.md",
-    "10 - User Authentication.md"
+    "01 - critto-intro.md"
   ]
 }

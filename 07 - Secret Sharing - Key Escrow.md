@@ -76,4 +76,3 @@ Esempio numerico:
 	- $g(1) = (a+S) \mod 17 = 10$
 	- $g(2) = (a+S) \mod 17=14$ 
 - risolvendo il sistema di equazioni per la $S$ sconosciutasi ottiene $S=6$ che è il segreto iniziale
-
